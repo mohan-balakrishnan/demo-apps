@@ -5,7 +5,11 @@
     <classes>
       <!-- <class name="com.leaftaps.testcases.TC001_JustLogin"/> -->
       <!-- <class name="com.leaftaps.testcases.LoginChrome"/> -->
+
+	    <class name="com.leaftaps.apps.demo"/>
+
 	    <class name="com.leaftaps.demoapps.LoginFirefox"/>
+
     </classes>
   </test> 
 </suite>
